@@ -25,7 +25,7 @@
     | 1 | 0 | 1 | 0 |
     | 1 | 1 | 0 | 1 |
 ## Scheme
-![and_gates](Digital-electronics-1-/blob/master/Labs/01-gates/scheme.png)
+<img src="https://github.com/Marxs31/Digital-electronics-1-/blob/master/Labs/01-gates/scheme.png" />
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=f_{AND}&space;=&space;\overline&space;{\overline&space;{&space;\overline&space;{a&space;}\cdot\overline{b}}&space;\cdot&space;\overline&space;{b\cdot&space;\overline{c}}}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?f_{AND}&space;=&space;\overline&space;{\overline&space;{&space;\overline&space;{a&space;}\cdot\overline{b}}&space;\cdot&space;\overline&space;{b\cdot&space;\overline{c}}}" title="f_{AND} = \overline {\overline { \overline {a }\cdot\overline{b}} \cdot \overline {b\cdot \overline{c}}}" /></a>
 
