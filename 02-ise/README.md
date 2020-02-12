@@ -29,7 +29,7 @@
 
     &nbsp;
     
-    ![equation](https://latex.codecogs.com/gif.latex?y_%7BA%3DB%7D%5E%7BSoP%7D%3D)
+    ![equation](https://latex.codecogs.com/gif.latex?%5Cinline%20y_%7BA%3EB%7D%5E%7BSoP%7D%3D%5Cbar%7BA%7D%5Cbar%7BB%7D&plus;AB)
     
     &nbsp;
     
