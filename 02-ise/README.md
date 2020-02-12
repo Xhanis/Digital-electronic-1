@@ -36,18 +36,25 @@
     ![equation](https://latex.codecogs.com/gif.latex?%5Cinline%20y_%7BA%3CB%7D%5E%7BPoS%7D%3D%28A&plus;B%29%5Ccdot%28%5Cbar%7BA%7D&plus;B%29%5Ccdot%28%5Cbar%7BA%7D&plus;%5Cbar%7BB%7D%29)
     
     &nbsp;
-
+    
     Create K-maps for all three functions.
+    
+&nbsp;
+    
+|  | **A** |  |                
+| :-: | :-: | :-: | 
+| 0 | 0 |  |        
+| 0 | 1 | **B** |   
 
-    &nbsp;
+|  | **A** |  |      
+| :-: | :-: | :-: |
+| 1 | 0 |  |
+| 0 | 1 | **B** |
 
-    &nbsp;
-
-    &nbsp;
-
-    &nbsp;
-
-    &nbsp;
+|  | **A** |  |      
+| :-: | :-: | :-: |
+| 0 | 0 |  |
+| 1 | 0 | **B** |
 
     &nbsp;
 
@@ -55,7 +62,7 @@
 
     &nbsp;
 
-    ![equation](https://latex.codecogs.com/gif.latex?y_%7BA%3CB%7D%5E%7BPoS%2Cmin%7D%20%3D)
+    ![equation](https://latex.codecogs.com/gif.latex?y_%7BA%3CB%7D%5E%7BPoS%2Cmin%7D%3D%5Coverline%7BA%7D%5Ccdot%20B)
     
     &nbsp;
 
